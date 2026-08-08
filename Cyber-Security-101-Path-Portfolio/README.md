@@ -1,7 +1,4 @@
 
-
-
-
 # 🛡️ TryHackMe Cyber Security 101
 
 Welcome to my **TryHackMe Cyber Security 101 learning portfolio**.
